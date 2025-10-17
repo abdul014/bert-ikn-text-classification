@@ -101,11 +101,6 @@ predict_sentence(sentence, tokenizer, model)
 
 ---
 
-## 📊 Visual Output Example
-<p align="center">
-  <img src="https://github.com/abdul014/bert-ikn-text-classification/blob/main/images/ikn_sentiment_chart.png?raw=true" width="600" alt="Sentiment Distribution Chart">
-</p>
-
 ---
 
 ## 🧰 Requirements
