@@ -23,13 +23,6 @@ The model is fine-tuned using TensorFlow and achieves strong performance on both
 
 ---
 
-## 🧠 Model Architecture
-The model uses **BERT-base Indonesian (1.5G)** from Hugging Face as a pretrained backbone, followed by a softmax classification layer.
-
-<p align="center">
-  <img src="https://github.com/abdul014/bert-ikn-text-classification/blob/main/resulst.png?raw=true" width="700" alt="BERT Model Architecture">
-</p>
-
 ---
 
 ## ⚙️ Workflow Summary
@@ -74,7 +67,7 @@ Dataset split:
 ### 🧾 Model Accuracy & Loss Graphs
 
 <p align="center">
-  <img src="https://github.com/abdul014/bert-ikn-text-classification/blob/main/images/model_accuracy_loss.png?raw=true" width="700" alt="Model Accuracy and Loss">
+  <img src="https://github.com/abdul014/bert-ikn-text-classification/blob/main/resulst.png?raw=true" width="700" alt="Model Accuracy and Loss">
 </p>
 
 The graphs above visualize the training and validation performance over 10 epochs:  
