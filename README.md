@@ -23,8 +23,6 @@ The model is fine-tuned using TensorFlow and achieves strong performance on both
 
 ---
 
----
-
 ## ⚙️ Workflow Summary
 1. **Data Preparation**  
    The corpus consists of Indonesian sentences about IKN. Each sentence was labeled automatically based on keyword matching using lists of positive and negative words.
@@ -91,8 +89,6 @@ predict_sentence(sentence, tokenizer, model)
 | 2 | Positive | 31.25% |
 
 🧭 Overall Sentiment Result → **Negative**
-
----
 
 ---
 
