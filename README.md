@@ -27,7 +27,7 @@ The model is fine-tuned using TensorFlow and achieves strong performance on both
 The model uses **BERT-base Indonesian (1.5G)** from Hugging Face as a pretrained backbone, followed by a softmax classification layer.
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*oR9EPU9j0P4SxR6Oe0h5ug.png" width="700" alt="BERT Model Architecture">
+  <img src="https://github.com/abdul014/bert-ikn-text-classification/blob/main/resulst.png?raw=true" width="700" alt="BERT Model Architecture">
 </p>
 
 ---
