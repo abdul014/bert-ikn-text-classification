@@ -1,7 +1,7 @@
 <h1 align="center">🤖 BERT Text Classification — Sentiment Analysis on Ibu Kota Nusantara (IKN)</h1>
 
 <p align="center">
-  <img src="https://github.com/abdul014/bert-ikn-text-classification/blob/main/images/ikn_bert_banner.png?raw=true" width="700" alt="BERT IKN Banner">
+  <img src="https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcR9ATm2P7Q0VnITMM8OCWfHl2illHgcHgEicA8pBaFOWttEYi6-2QQj4jBedBrWv35ZcDlNCZBN_s6V0JAwse4t837_AIe6Hp-vo_oZ0vg" width="700" alt="BERT IKN Banner">
 </p>
 
 <p align="center">
